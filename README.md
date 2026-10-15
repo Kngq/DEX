@@ -2,6 +2,17 @@
 
 **Data EXploration made simple.**
 
+## Installation
+
+Download the project as a ZIP from the repository page, or clone it:
+
+```bash
+git clone <repository-url>
+cd dex
+```
+
+Replace `<repository-url>` with the URL of your repo, and adjust the folder name if it differs.
+
 ## Usage
 
 Run the script:
